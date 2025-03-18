@@ -6,7 +6,7 @@
 
 
    
-<!-- ### 🧰 Languages and Tools
+
 <table>
 <kbd>
     <br>
@@ -22,39 +22,15 @@
         <kbd>Core</kbd>
         <br>
          <img align="center" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-         <img align="center" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-         <img align="center" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-         <img align="center" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
         <br>    
     </kbd>
-    <kbd>
-        <kbd>Frontend Frameworks</kbd>
-        <br>
-        <img align="center" title="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"/>
-        <img align="center" title="Nextjs" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"/>
-        <img align="center" title="svelte" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg"/>
-        <br>    
-    </kbd>
-    <kbd>
-        <kbd>Backend</kbd>
-        <br>
-        <img align="center" title="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-        <br>    
-    </kbd>
+  
     <kbd>
         <kbd>Databases</kbd>
         <br>
         <img align="center" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-        <img align="center" title="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-        <br>    
     </kbd>
-    <kbd>
-        <kbd>Pakage Managers</kbd>
-        <br>
-        <img align="center" title="npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-        <img align="center" title="yarn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-        <br>    
-    </kbd>
+    
     <kbd>
         <kbd>Tools</kbd>
         <br>
@@ -75,10 +51,6 @@
 </kbd>
 </table> --> 
 
-
-
-
-# 
 <h3 align="center"> 
   🐱‍👤 GitHub Stats </h3>
 <table align="center">
@@ -92,11 +64,6 @@
   </tr>
 </table>
 
-<div align="center">
-
-![Animation](https://raw.githubusercontent.com/NathanSec/NathanSec/output/github-contribution-grid-snake-dark.svg) 
-    
-</div>
 <p align="center">
     <a href="https://br.linkedin.com/in/nathan-ferreira-silva-6663a2351"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height='30'/></a>
 </p>
