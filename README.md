@@ -25,13 +25,13 @@
         <br>    
     </kbd>
   
-    <kbd>
+   <kbd>
         <kbd>Databases</kbd>
         <br>
         <img align="center" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     </kbd>
     
-    <kbd>
+   <kbd>
         <kbd>Tools</kbd>
         <br>
         <img align="center" title="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -67,9 +67,4 @@
 <p align="center">
     <a href="https://br.linkedin.com/in/nathan-ferreira-silva-6663a2351"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height='30'/></a>
 </p>
-<br/>
-<p align="center"> 
-    <img align="center" height="125px"  src="https://github-readme-stats.vercel.app/api/pin/?username=NathanSecrepo=DSA&theme=dracula" />
-</p>
-
 
