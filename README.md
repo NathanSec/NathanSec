@@ -4,12 +4,6 @@
  <hr>
  <h3></h3>
 
-</p>
-<p align="center">
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=NathanSec&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=1&column=7" />
-    </td>   
-</p>
 
    
 <!-- ### 🧰 Languages and Tools
