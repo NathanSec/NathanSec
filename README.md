@@ -1,9 +1,14 @@
 **`Student/For Developer`**
 
  <h1>Prazer, eu sou <span style{color="yellow"}>Nathan Ferreira</span></h1>
- <hr>
  <h3>Perseguindo sonhos por meio da tecnologia</h3>
- 
+ <br>
+ <hr>
+ <br>
+ <p> - Entusiasta de Hardware
+     - Linux
+     - Redes
+ </p>
 
 
    
