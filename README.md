@@ -94,7 +94,7 @@
 
 <div align="center">
 
-![Animation](https://raw.githubusercontent.com/Sid-WC121/NathanSec/output/github-contribution-grid-snake-dark.svg) 
+![Animation](https://raw.githubusercontent.com/NathanSec/NathanSec/output/github-contribution-grid-snake-dark.svg) 
     
 </div>
 <p align="center">
