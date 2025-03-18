@@ -1,8 +1,9 @@
-**`Developer`**
+**`Student/For Developer`**
 
- <h4>Prazer, eu sou <span color="yellow">Nathan Ferreira</span></h4>
+ <h1>Prazer, eu sou <span style{color="yellow"}>Nathan Ferreira</span></h1>
  <hr>
- <h3></h3>
+ <h3>Perseguindo sonhos por meio da tecnologia</h3>
+ 
 
 
    
@@ -49,7 +50,7 @@
     </kbd>
     </p>
 </kbd>
-</table> --> 
+</table> 
 
 <h3 align="center"> 
   🐱‍👤 GitHub Stats </h3>
