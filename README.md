@@ -7,7 +7,7 @@
 </p>
 <p align="center">
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Sid-WC121&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=1&column=7" />
+      <img src="https://github-profile-trophy.vercel.app/?username=NathanSec&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=1&column=7" />
     </td>   
 </p>
 
