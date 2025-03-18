@@ -1,16 +1,13 @@
 **`Student/For Developer`**
 
- <h1>Prazer, eu sou <span style{color="yellow"}>Nathan Ferreira</span></h1>
- <h3>Perseguindo sonhos por meio da tecnologia</h3>
+ <h1>Prazer, eu sou <span color="yellow">Nathan Ferreira</span></h1>
+ <h2>Trilhando meu caminho na tecnologia</h3>
  <br>
  <hr>
  <br>
- <p> - Entusiasta de Hardware
-     - Linux
-     - Redes
- </p>
-
-
+ <h4> ° Entusiasta de Hardware </h4>
+ <h4> ° Redes </h4>
+ <h4> ° Linux </h4>
    
 
 <table>
@@ -28,6 +25,7 @@
         <kbd>Core</kbd>
         <br>
          <img align="center" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+         <img align="center" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
         <br>    
     </kbd>
   
